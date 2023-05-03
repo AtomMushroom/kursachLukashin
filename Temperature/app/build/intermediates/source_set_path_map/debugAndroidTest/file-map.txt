@@ -1,0 +1,5 @@
+com.luk.temperature.test.app-androidTest-0 D:\Temperature\app\build\generated\res\resValues\androidTest\debug
+com.luk.temperature.test.app-androidTest-1 D:\Temperature\app\build\generated\res\rs\androidTest\debug
+com.luk.temperature.test.app-mergeDebugAndroidTestResources-2 D:\Temperature\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.luk.temperature.test.app-mergeDebugAndroidTestResources-3 D:\Temperature\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.luk.temperature.test.app-merged_res-4 D:\Temperature\app\build\intermediates\merged_res\debugAndroidTest
