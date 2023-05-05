@@ -9,7 +9,12 @@ color teal_700
 color white
 drawable ic_launcher_background
 drawable ic_launcher_foreground
+id batteryType
+id cpu
+id level
+id temperature
 id textView
+id voltage
 layout activity_main
 mipmap ic_launcher
 mipmap ic_launcher_round

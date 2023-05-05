@@ -2595,6 +2595,7 @@ id autoCompleteToEnd
 id autoCompleteToStart
 id barrier
 id baseline
+id batteryType
 id beginOnFirstDraw
 id beginning
 id bestChoice
@@ -2641,6 +2642,7 @@ id continuousVelocity
 id coordinator
 id cos
 id counterclockwise
+id cpu
 id currentState
 id custom
 id customPanel
@@ -2738,6 +2740,7 @@ id layout
 id left
 id leftToRight
 id legacy
+id level
 id line1
 id line3
 id linear
@@ -2924,6 +2927,7 @@ id tag_transition_group
 id tag_unhandled_key_event_manager
 id tag_unhandled_key_listeners
 id tag_window_insets_animation_callback
+id temperature
 id test_checkbox_android_button_tint
 id test_checkbox_app_button_tint
 id test_radiobutton_android_button_tint
@@ -2974,6 +2978,7 @@ id view_tree_saved_state_registry_owner
 id view_tree_view_model_store_owner
 id visible
 id visible_removing_fragment_view_tag
+id voltage
 id west
 id withText
 id withinBounds
